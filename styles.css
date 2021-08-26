@@ -4,5 +4,10 @@ h1 {color: orange;
 
 .contents {
   color: rgb(11,111,187);
-  background-color: rgb(84,151,203);
+  background-color: rgb(189,222,248);
+}
+
+footer {
+  font-size: 12px;
+  background-color: rgb(1,20,35);
 }
