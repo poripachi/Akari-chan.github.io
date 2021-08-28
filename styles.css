@@ -13,10 +13,10 @@ footer {
   background-color: rgb(1,20,35);
 }
 
-* a:link {
+footer a:link {
   color: rgb(189,222,248)
 }
 
-* a:visited {
+footer a:visited {
   color: rgb(76,165,234)
 }
