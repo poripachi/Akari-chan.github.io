@@ -4,6 +4,7 @@ h1 {color: orange;
 
 .contents {
   color: rgb(11,111,187);
+  width: auto;
   background-color: rgb(189,222,248);
   border: solid rgb(0,40,74);
 }
