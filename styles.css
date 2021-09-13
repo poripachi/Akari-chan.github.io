@@ -5,12 +5,14 @@ h1 {color: orange;
 .contents {
   color: rgb(11,111,187);
   background-color: rgb(189,222,248);
+  width: auto;
 }
 
 footer {
   font-size: 12px;
   color: white;
   background-color: rgb(1,20,35);
+  width: auto;
 }
 
 footer a:link {
