@@ -1,10 +1,18 @@
+background {
+  color: rgb(7,14,61)
+}
+
+main {
+  width: fit-content;
+  background-color: rgba(255,133,0,0.8);
+}
+
 h1 {color: orange;
     font-size: 50px;
   }
 
 .contents {
   width: fit-content;
-  padding: 5%;
   color: rgb(11,111,187);
   background-color: rgb(189,222,248);
   border: solid rgb(0,40,74);
