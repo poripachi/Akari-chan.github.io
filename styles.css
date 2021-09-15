@@ -1,15 +1,22 @@
-background {
-  color: rgb(7,14,61)
+body {
+  background-color: rgb(7,14,61);
 }
 
 main {
   width: fit-content;
   background-color: rgba(255,133,0,0.8);
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 0 15px 2px rgba(0,0,0,0.7)
 }
 
 h1 {color: orange;
     font-size: 50px;
   }
+
+img {
+  border: solid rgb(0,40,74);
+}
 
 .contents {
   width: fit-content;
@@ -25,9 +32,9 @@ footer {
 }
 
 footer a:link {
-  color: rgb(189,222,248)
+  color: rgb(189,222,248);
 }
 
 footer a:visited {
-  color: rgb(76,165,234)
+  color: rgb(76,165,234);
 }
