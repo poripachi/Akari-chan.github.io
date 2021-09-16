@@ -2,6 +2,8 @@ body {
   background-color: rgb(7,14,61);
   background-image: url(back_star.png);
   max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 main {
@@ -33,6 +35,8 @@ footer {
   font-size: 12px;
   color: white;
   background-color: rgb(1,20,35);
+  margin-left: 0;
+  margin-right: 0;
 }
 
 footer a:link {
