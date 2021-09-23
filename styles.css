@@ -4,7 +4,6 @@ body {
   max-width: 65%;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 30px;
 }
 
 main {
@@ -13,6 +12,7 @@ main {
   background-color: rgb(255,255,255);
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 40px;
   box-shadow: 0 0 15px 2px rgba(0,0,0,0.7);
   overflow-wrap: break-word;
 }
